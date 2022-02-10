@@ -1,4 +1,4 @@
-# RLfluidperception
+
 <div align="center">  
   
 # PHYSICS-INFORMED REINFORCEMENT LEARNING FOR PERCEPTION AND REASONING ABOUT FLUIDS
@@ -30,17 +30,6 @@ Sequences of the free surface evolution for different liquids. Data acquired by 
 - [Beer test](https://drive.google.com/file/d/142Q8NvgYzaDiLvQ5A1IwrBi6VzN7nz7z/view?usp=sharing)
 - [Honey test](https://drive.google.com/file/d/1yoGzJuBykNFEWg-tbcPkOf4OmUqYFacJ/view?usp=sharing)
 
-
-
-## Training the model
-
-
-We have performed simulations aplying the smooth particle hydrodynamics theory. Each column vector of the matrices available corresponds to the state variables that we employ in the model at discrete time steps. These state variables are the 3D position, the 3D velocity, the internal energy, and the stress tensor evaluated at each particle. Since the fluid has been discretized in 2134 particles, the full dimensionality of the problem is 27742.
-
-
-
-<img width="1265" alt="video_water" src="https://user-images.githubusercontent.com/65158632/81586504-e515db80-93b5-11ea-8d11-93c700ab0f5f.png">
-  
 
 ## Results
 
