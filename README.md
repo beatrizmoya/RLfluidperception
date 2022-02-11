@@ -16,17 +16,17 @@ Real world physics emcompasses a great divergence of behaviors that a solely mac
 _Note that off-line processing of datasets has been performed with MATLAB2017b
 
 ## Downloads
-Sequences of the free surface evolution for different liquids. Data acquired by means of computer vision, tracking the free surface from binarized images at 60Hz. Each sequence consists in 16 snapshots of 21 points, equally spaced, from the reconstructed free surface profile. The heigh of each point is provided. 
+Sequences of the free surface evolution for different liquids. Data acquired by means of computer vision, tracking the free surface from binarized images at 60Hz. Each sequence consists in 16 snapshots of 21 points, equally spaced, from the reconstructed free surface profile. The heigh of each point is also provided. 
 
 
 - [Water train](https://drive.google.com/file/d/1QEpwhda8vmgIax0rvWUGp30agGVck4_y/view?usp=sharing)
-- [Gazpacho train](https://drive.google.com/file/d/1BGa0RlM_6BJ6j9tRb_sBx-rsyJLieyTZ/view?usp=sharing)
+- [Gazpacho train](https://drive.google.com/file/d/1tC_1drGcAE2rFXQKRaMABcWnNRwX_4ze/view?usp=sharing)
 - [Beer train](https://drive.google.com/file/d/1yel-ZPatPLnW8aZZxpYrcM20I9UqcUY5/view?usp=sharing)
 - [Honey train](https://drive.google.com/file/d/1Ytde2ATYSS7aILMjW0a_1uD0frtxA6iy/view?usp=sharing)
 
 
 - [Water test](https://drive.google.com/file/d/1C85SXc4co5F4GqyjcSQW7CeNqFEv3MwM/view?usp=sharing)
-- [Gazpacho test](https://drive.google.com/file/d/14YTfTdvOAMMDKA9mdkVGSEN4XEUW7lwh/view?usp=sharing)
+- [Gazpacho test](https://drive.google.com/file/d/1zXVAUIc-38WoR-zyjXRrXMWRnUs-Lfqe/view?usp=sharing)
 - [Beer test](https://drive.google.com/file/d/142Q8NvgYzaDiLvQ5A1IwrBi6VzN7nz7z/view?usp=sharing)
 - [Honey test](https://drive.google.com/file/d/1yoGzJuBykNFEWg-tbcPkOf4OmUqYFacJ/view?usp=sharing)
 
