@@ -8,7 +8,7 @@
 
 ## Abstract   
 
-Real world physics emcompasses a great divergence of behaviors that a solely machine cannot learn. Reainforment learning fill in the gap of knowledge to learn new physics from observations based on previous knowledge. Hence, the machine's intuition and perception of real dynamics is enriched to match the real entities. We present a perception model correction strategy to learn new fluid dynamics from observations. The correction is guided by the principles of thermodynamics to ensure the physical consistency of the results and optimize the learning process. 
+Real world physics emcompasses a great divergence of behaviors that a machine cannot learn in one single training. Reinforcement learning fills the knowledge gap to learn new physics from observations, building on prior knowledge. Hence, intuition and machine perception of real dynamics are enriched to match real entities.We present a perception model correction strategy for learning new fluid dynamics from observations. The correction is guided by the principles of thermodynamics to ensure physical consistency of the results and optimize the learning process.
 
 
 
