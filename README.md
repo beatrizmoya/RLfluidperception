@@ -45,5 +45,12 @@ Please, follow the [link](https://www.youtube.com/watch?v=d1JyhPNkLkU) to the re
 
 ## Citation   
 
-Cooming soon
 
+Moya, B., Badias, A., Gonzalez, D., Chinesta, F., & Cueto, E. (2022). Physics-informed Reinforcement Learning for Perception and Reasoning about Fluids. arXiv preprint arXiv:2203.05775.[link](**https://www.youtube.com/watch?v=d1JyhPNkLkU**)
+
+@article{moya2022physics,
+  title={Physics-informed Reinforcement Learning for Perception and Reasoning about Fluids},
+  author={Moya, Beatriz and Badias, Alberto and Gonzalez, David and Chinesta, Francisco and Cueto, Elias},
+  journal={arXiv preprint arXiv:2203.05775},
+  year={2022}
+}
